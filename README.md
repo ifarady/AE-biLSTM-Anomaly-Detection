@@ -12,7 +12,7 @@ In this work, we utilize the [ECG5000 dataset](https://www.timeseriesclassificat
 
 Figure below shows the prediction results of anomaly and normal ECG datasets using an autoencoder with a 2-layer LSTM. The threshold for this prediction can be customized to enhance the quality of results.
 
-![Alt Text](https://github.com/ifarady/AE-biLSTM-Anomaly-Detection/blob/main/figs/fig4.png)
+<image src="https://github.com/ifarady/AE-biLSTM-Anomaly-Detection/blob/main/figs/fig4.png" alt="Distribution density of anomaly and normal signals with AE-2 layer LSTM" width="400"/>
 *Distribution density of anomaly and normal signals with AE-2 layer LSTM.*
 
 ## Requirements
