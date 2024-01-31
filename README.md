@@ -2,6 +2,10 @@
 
 This repository provides an implementation for detecting anomalies in ECG signals using an autoencoder with a 2-layer LSTM (Long Short-Term Memory) network. The architecture includes LSTM layers in both the encoder and decoder sections. While it is possible to experiment with additional layers, the results from this study suggest that utilizing 2 layers yields optimal performance for anomaly detection in ECG signals. The code demonstrates the successful adaptation of 2D data into 1D data to effectively detect anomalies. Additionally, users can easily adjust the anomaly detection threshold.
 
+![Alt Text](image_url)
+*Caption: Your caption here.*
+
+
 ## Requirements
 - Python 3
 - PyTorch
